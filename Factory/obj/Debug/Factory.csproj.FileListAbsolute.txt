@@ -1,0 +1,15 @@
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\bin\Debug\Factory.dll
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\bin\Debug\Factory.pdb
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\bin\Debug\Models.dll
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\bin\Debug\Models.pdb
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\obj\Debug\Factory.dll
+C:\Users\kamogelo.ramokgadi\Documents\Visual Studio 2015\Projects\Ninja\Factory\obj\Debug\Factory.pdb
+E:\Projects\Ninja\Factory\bin\Debug\Factory.dll
+E:\Projects\Ninja\Factory\bin\Debug\Factory.pdb
+E:\Projects\Ninja\Factory\bin\Debug\Models.dll
+E:\Projects\Ninja\Factory\bin\Debug\Models.pdb
+E:\Projects\Ninja\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+E:\Projects\Ninja\Factory\obj\Debug\Factory.csproj.CopyComplete
+E:\Projects\Ninja\Factory\obj\Debug\Factory.dll
+E:\Projects\Ninja\Factory\obj\Debug\Factory.pdb

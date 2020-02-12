@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja", "Ninja\Ninja.csproj", "{9CFFB24D-DD4E-47ED-8FD5-F6C6A4A7A6A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{16891E91-718F-4FB5-8E47-261F472181B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{33F71E26-AF36-433F-980F-66A708E0F2E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFFB24D-DD4E-47ED-8FD5-F6C6A4A7A6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFFB24D-DD4E-47ED-8FD5-F6C6A4A7A6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFFB24D-DD4E-47ED-8FD5-F6C6A4A7A6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFFB24D-DD4E-47ED-8FD5-F6C6A4A7A6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16891E91-718F-4FB5-8E47-261F472181B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16891E91-718F-4FB5-8E47-261F472181B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16891E91-718F-4FB5-8E47-261F472181B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16891E91-718F-4FB5-8E47-261F472181B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F71E26-AF36-433F-980F-66A708E0F2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F71E26-AF36-433F-980F-66A708E0F2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F71E26-AF36-433F-980F-66A708E0F2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F71E26-AF36-433F-980F-66A708E0F2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
